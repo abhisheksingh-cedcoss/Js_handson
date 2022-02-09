@@ -14,3 +14,6 @@ b=a;
 
 //assigning variable with the assignment operator
 var a = 9;
+//declare string variable
+var myFirstName ="abhishek";
+var myLastName="singh";
