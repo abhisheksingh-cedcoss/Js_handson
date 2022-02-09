@@ -222,6 +222,13 @@ myArray.unshift(["Paul", 35]);
 //Shopping List
 const myList = [["we",5],["are",6],["one",6],["for",6],["all",4]];
 
+// Write Reusable JavaScript with Functions
+function reusableFunction(){
+    console.log("Hi World");
+  }
+  
+  reusableFunction();
+
 
 
 
