@@ -66,3 +66,5 @@ myVar--;
 // creatimg decimal value in js 
 const ourDecimal = 5.7;
 const myDecimal = 5.7;
+// multiply two decimal in js
+const product = 2.0 * 2.5;
