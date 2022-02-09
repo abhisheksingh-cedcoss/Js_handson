@@ -140,3 +140,10 @@ const myStr = "My name is "+ myName +"I am well";
 const someAdjective = "awesome!";
 let myStr = "Learning to code is ";
 myStr += someAdjective;
+
+//finding the length of string
+let lastNameLength = 0;
+const lastName = "Lovelace";
+lastNameLength = lastName.length;
+
+
