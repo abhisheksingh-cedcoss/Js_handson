@@ -53,3 +53,5 @@ const sum = 10 + 10;
 const difference = 45 - 33;
 // multiply the number
 const product = 8 * 10;
+// divide one number with another number
+const quotient = 66 / 33;
