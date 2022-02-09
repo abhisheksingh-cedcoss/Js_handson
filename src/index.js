@@ -62,3 +62,7 @@ myVar++;
 // decrement the number in js 
 let myVar = 11;
 myVar--;
+
+// creatimg decimal value in js 
+const ourDecimal = 5.7;
+const myDecimal = 5.7;
