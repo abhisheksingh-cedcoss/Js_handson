@@ -135,3 +135,8 @@ myStr +="This is the second sentence.";
 // constructing string with variable 
 const myName = "abhishek singh";
 const myStr = "My name is "+ myName +"I am well";
+
+// appending variable to string
+const someAdjective = "awesome!";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
