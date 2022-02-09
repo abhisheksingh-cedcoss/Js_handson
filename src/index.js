@@ -70,3 +70,7 @@ const myDecimal = 5.7;
 const product = 2.0 * 2.5;
 // divide decimal number with decimal number
 const quotient = 4.4 / 2.0;
+
+// find remainder in js
+var remainder =0;
+remainder = 11%3;
