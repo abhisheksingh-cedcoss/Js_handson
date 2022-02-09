@@ -182,4 +182,10 @@ const myArray = ["jelly", 43];
 //Nest one Array within Another Array
 const myArray = [["Blue", 23],["White sox", 45]];
 
+//Access Array Data with Indexes
+const myArray = [50, 60, 70];
+
+const myData = myArray[0];
+
+
 
