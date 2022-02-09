@@ -116,3 +116,7 @@ c /=  11;
 
 // Escapting literal qoutes 
 const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
+
+
+// qouting string with single qoutes
+const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
