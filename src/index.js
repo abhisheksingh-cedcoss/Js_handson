@@ -55,3 +55,7 @@ const difference = 45 - 33;
 const product = 8 * 10;
 // divide one number with another number
 const quotient = 66 / 33;
+
+// increment the variable
+let myVar = 87;
+myVar++;
