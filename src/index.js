@@ -26,3 +26,13 @@ var c = "I am a";
 a = a + 1;
 b = b + 5;
 c = c + " String!";
+
+// declare string variable
+
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
