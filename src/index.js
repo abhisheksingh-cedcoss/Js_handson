@@ -396,8 +396,7 @@ function testStrictNotEqual(val) {
   testStrictNotEqual(10);
 
 
-//Comparison with the Greater Than Or Equal To Operator
-
+//Comparison with the Greater Than Operator
 
   function testGreaterThan(val) {
     if (val>100) {  
