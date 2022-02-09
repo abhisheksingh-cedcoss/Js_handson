@@ -11,3 +11,6 @@ var a;
 a = 7;
 var b;
 b=a;
+
+//assigning variable with the assignment operator
+var a = 9;
