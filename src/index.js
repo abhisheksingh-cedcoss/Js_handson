@@ -239,6 +239,13 @@ function functionWithArgs(a,b){
   
   functionWithArgs(1,2);
   functionWithArgs(7,9);
+
+  //Return a Value from a Function with Return
+  function timesFive(num){
+    return num*5;
+  }
+
+
   
   
 
