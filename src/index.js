@@ -130,3 +130,8 @@ const myStr = "This is the start." + " This is the end.";
 // concation sting with += operator 
 let myStr = "This is the first sentence. ";
 myStr +="This is the second sentence.";
+
+
+// constructing string with variable 
+const myName = "abhishek singh";
+const myStr = "My name is "+ myName +"I am well";
