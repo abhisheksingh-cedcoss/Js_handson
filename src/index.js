@@ -27,8 +27,7 @@ a = a + 1;
 b = b + 5;
 c = c + " String!";
 
-// declare string variable
-
+// understanding case sensitivity in variable
 var studlyCapVar;
 var properCamelCase;
 var titleCaseOver;
@@ -36,3 +35,8 @@ var titleCaseOver;
 studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
+
+// explore difference btw let and var
+
+let catName = "Oliver";
+let catSound = "Meow!";
