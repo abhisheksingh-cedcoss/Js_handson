@@ -68,3 +68,5 @@ const ourDecimal = 5.7;
 const myDecimal = 5.7;
 // multiply two decimal in js
 const product = 2.0 * 2.5;
+// divide decimal number with decimal number
+const quotient = 4.4 / 2.0;
