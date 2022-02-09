@@ -153,4 +153,8 @@ const lastName = "Lovelace";
 
 firstLetterOfLastName = lastName[0]; 
 
+// understanding string immutibility 
+let myStr = "Jello World";
+myStr = "Hello World"; 
+
 
