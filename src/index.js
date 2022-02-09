@@ -40,3 +40,9 @@ titleCaseOver = 9000;
 
 let catName = "Oliver";
 let catSound = "Meow!";
+
+//declare a read only variable with const keyword
+const FCC = "freeCodeCamp";
+let fact = "is cool!"; 
+const FACT  = "is awesome!";
+console.log(FCC, fact); 
