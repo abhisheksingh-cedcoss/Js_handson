@@ -320,6 +320,15 @@ function nextInLine(arr, item) {
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));
 
+//Understanding Boolean Values
+
+function welcomeToBooleans() {
+  
+    return true; 
+  
+  }
+
+
 
   
   
