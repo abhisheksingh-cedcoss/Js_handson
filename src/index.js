@@ -165,5 +165,9 @@ const thirdLetterOfLastName = lastName[2];
 const lastName = "Lovelace";
 const lastLetterOfLastName = lastName[lastName.length -1]; 
 
+// usimg brackets to find nth to last letter in string
+const lastName = "Lovelace";
+const secondToLastLetterOfLastName = lastName[lastName.length -2]; 
+
 
 
