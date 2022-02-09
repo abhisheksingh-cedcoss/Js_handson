@@ -179,5 +179,7 @@ const wordBlanks = " The "+myNoun +" " +myAdjective+" "+myVerb+" "+myAdverb ;
 
 //Store Multiple Values in one Variable using JavaScript Array
 const myArray = ["jelly", 43];
+//Nest one Array within Another Array
+const myArray = [["Blue", 23],["White sox", 45]];
 
 
