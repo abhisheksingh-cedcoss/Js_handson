@@ -123,3 +123,6 @@ const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 
 //Escape sequence in string 
 const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+
+//concatination string with + operator 
+const myStr = "This is the start." + " This is the end.";
