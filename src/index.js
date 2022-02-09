@@ -51,3 +51,5 @@ console.log(FCC, fact);
 const sum = 10 + 10;
 // subtract one number with another 
 const difference = 45 - 33;
+// multiply the number
+const product = 8 * 10;
