@@ -74,3 +74,12 @@ const quotient = 4.4 / 2.0;
 // find remainder in js
 var remainder =0;
 remainder = 11%3;
+
+//compound assignment with argumented addition
+let a = 3;
+let b = 17;
+let c = 12;
+
+a += 12;
+b += 9 ;
+c += 7;
