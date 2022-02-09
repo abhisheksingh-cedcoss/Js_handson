@@ -477,7 +477,7 @@ function testLessOrEqual(val) {
   
   testLogicalAnd(10);
 
-  //Comparisons with the Logical Or Operator
+  //  Comparisons with the Logical Or Operator
 
   function testLogicalOr(val) {
   
@@ -489,6 +489,24 @@ function testLessOrEqual(val) {
   
   testLogicalOr(15);
 
+
+  // Introducing Else Statements
+
+  function testElse(val) {
+    let result = "";
+  
+    if (val > 5) {
+      result = "Bigger than 5";
+    }
+  
+  else
+      result = "5 or Smaller";
+    
+  
+    return result;
+  }
+  
+  testElse(4);
   
   
 
