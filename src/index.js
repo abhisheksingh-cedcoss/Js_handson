@@ -157,4 +157,8 @@ firstLetterOfLastName = lastName[0];
 let myStr = "Jello World";
 myStr = "Hello World"; 
 
+// finding nth character in the string 
+const lastName = "Lovelace";
+const thirdLetterOfLastName = lastName[2]; 
+
 
