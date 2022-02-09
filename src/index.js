@@ -59,3 +59,6 @@ const quotient = 66 / 33;
 // increment the variable
 let myVar = 87;
 myVar++;
+// decrement the number in js 
+let myVar = 11;
+myVar--;
