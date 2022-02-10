@@ -1059,6 +1059,17 @@ for (var i =0; i<arr.length; i++){
 
 multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
 
+// Iterate with JavaScript Do...While Loops
+
+
+const myArray = [];
+let i = 10;
+
+do  {
+  myArray.push(i);
+  i++;
+}
+while (i < 5)
 
 
 
