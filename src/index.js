@@ -910,12 +910,13 @@ const myMusic = [
   "artist": "Adam",
   "title": "Drumer",
   "release_year": 2004,
-  "formate": ["Youtube"]
+  "formats": ["Youtube", "musics"]
 }
 
 
 
 ];
+
 
 
 
