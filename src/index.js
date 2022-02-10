@@ -1124,6 +1124,13 @@ function lookUpProfile(name, prop){
 
 lookUpProfile("Akira", "likes");
 
+// genrate ramdom fraction with js code
 
+function randomFraction() {
+
+
+  return Math.random();
+
+}
 
 
